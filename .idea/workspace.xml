@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3205df1-a47d-40e2-843b-49a9740272db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Clothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clothing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClothingTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClothingTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jeans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jeans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentAthlete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentAthlete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sweatshirt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sweatshirt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TShirt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TShirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ElectricCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +23,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M3qtSNRSzwnClhvSB0ERTojWZq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

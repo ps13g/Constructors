@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Jeans {
+public class Jeans extends Clothing
+{
+    public Jeans(String size)
+    {
+        super(size, "blue");
+    }
 }
+
